@@ -7,7 +7,7 @@ This project is licensed under the terms of the MIT license.
 This repository contains a small web application and Python package that call the **Watson NLP EmotionPredict** endpoint to classify text into five emotions and report the **dominant_emotion**.  
 It includes a packaged module, unit tests, a Flask UI, blank-input error handling, and static code analysis (Pylint score: **10/10**).
 
-Use at your own risk. Feedback and suggestions are welcome—happy hacking! 🎉
+Feedback and suggestions are welcome—happy coding! 🎉
 
 ---
 
